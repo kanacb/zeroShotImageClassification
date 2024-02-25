@@ -1,0 +1,8 @@
+transformers
+flask
+sentence-transformers
+tensorflow
+tf-keras
+Pillow
+requests
+torch
